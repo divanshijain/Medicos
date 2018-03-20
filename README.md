@@ -15,7 +15,7 @@ It helps the patient in,
 
 Technology Stack:
 
-Android Studio
-Java
-XML
-SQLite
+1. Android Studio
+2. Java
+3. XML
+4. SQLite
